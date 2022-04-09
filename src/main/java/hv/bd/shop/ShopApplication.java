@@ -32,7 +32,7 @@ public class ShopApplication {
         Author authorNVG = new Author();
         authorNVG.setAuthorName("Nikolay Vasilyevich Gogol");
         Book bookDS = new Book();
-        bookDS.setBookName("Dark Souls");
+        bookDS.setBookName("Dead Souls");
         bookDS.setAuthorid(authorNVG);
         bookDS.setCost(500.31);
         bookDS.setReleaseYear(1842);
